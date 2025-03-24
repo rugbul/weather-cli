@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	apiKey      = "1782b3a35aeb08c6e9e65779ca693a83"
+	apiKey      = "ваш Apikey"
 	cacheFile   = "weather_cache.json"
 	cacheExpiry = 10 * time.Minute
 )
